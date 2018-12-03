@@ -1,4 +1,4 @@
-Approved songs (please rehearse them):
+Approved songs (please rehearse them in the following order):
 
 - Tool - Schism
 - Porcupine Tree - Anesthetize
