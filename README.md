@@ -11,7 +11,7 @@ Next rehearsals:
 - Sa, 15.12.18, 17 Uhr
 - Mo, 17.12.18, 16 Uhr
 
-Gigs presumably on Thursday, 20.12.18, at the Terror-WG and/or the IUP.
+**Gigs presumably on Thursday, 20.12.18, at the Terror-WG and/or the IUP.**
 
 Put songs up for approval into "./propositions.txt" to discuss at the next meeting. Songs to be regarded as long-term projects/propositions should be put into "./propositions(longTerm).txt".
 The list should be cleaned after each review.
