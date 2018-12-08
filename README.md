@@ -2,9 +2,9 @@ Approved songs (please rehearse them in the following order):
 
 - Tool - Schism
 - Porcupine Tree - Anesthetize
-- Opeth - Windowpane
 - Tool - The Pot
 - Porcupine Tree - Arriving Somewhere But Not Here
+- Opeth - Windowpane
 
 Next rehearsals:
 - Sa, 08.12.18, 12-14 Uhr
