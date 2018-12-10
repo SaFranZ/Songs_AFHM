@@ -7,7 +7,6 @@ Approved songs (please rehearse them in the following order):
 - Opeth - Windowpane
 
 Next rehearsals:
-- Sa, 08.12.18, 12-14 Uhr
 - Sa, 15.12.18, 17 Uhr
 - Mo, 17.12.18, 16 Uhr
 
